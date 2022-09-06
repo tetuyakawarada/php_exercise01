@@ -31,7 +31,7 @@ switch ($operator) {
 }
 
 if ($error) {
-    echo '正しい演算子を指定してください';
+    echo '正しい演算子を指定してください ';
 } else {
     echo "{$num1} {$ope} {$num2} = {$answer}";
 }
