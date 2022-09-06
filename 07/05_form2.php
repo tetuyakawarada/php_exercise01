@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     if (empty($tel)) {
-        $err_msgs[] = '電話番号を入力してください';
+        $err_msgs[] = '電話番号を入力してくださいい';
     }
 
     if (empty($email)) {
