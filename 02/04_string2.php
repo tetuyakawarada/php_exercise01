@@ -2,7 +2,8 @@
 
 $num = 9;
 
-$result = $num - 4.5;
+// ここにコードを1行記述
+$result = $num / 2;
 
 $result++;
 
