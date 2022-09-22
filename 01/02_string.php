@@ -3,6 +3,7 @@
 $food = 'りんご';
 $drink = 'みかんジュース';
 
-$break_fast = "{$food}と{$drink}";
+// ここにコードを1行記述
+$break_fast = $food . 'と' . $drink;
 
 echo $break_fast;
