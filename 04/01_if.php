@@ -6,7 +6,7 @@ $a = trim(fgets(STDIN));
 echo '$bの値を入力してください: ';
 $b = trim(fgets(STDIN));
 
-// ここに処理を記述
+// ここに処理を記述000
 if ($a > $b) {
     echo $a;
 } elseif ($a < $b) {
